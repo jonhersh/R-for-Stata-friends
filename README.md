@@ -16,6 +16,8 @@
 1. [stargazer](https://cran.r-project.org/web/packages/stargazer/vignettes/stargazer.pdf)
 1. [tableone](https://cran.r-project.org/web/packages/tableone/vignettes/introduction.html)
 1. [Plotting data with ggplot](https://r4ds.had.co.nz/data-visualisation.html)
+1. [Summary tables with gtsummary](https://github.com/ddsjoberg/gtsummary)
+1. [Grouping data with group_by and summarize](https://datacarpentry.org/R-genomics/04-dplyr.html)
 
 ## Modeling
 
