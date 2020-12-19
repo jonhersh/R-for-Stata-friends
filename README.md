@@ -48,6 +48,8 @@
 1. [Rayshader](https://www.rayshader.com/)
 1. [Dashboards with R Shiny](https://shiny.rstudio.com/gallery/)
 1. [Analyzing spatial data with sf](https://r-spatial.github.io/sf/)
+1. [Pirate plots](https://bookdown.org/ndphillips/YaRrr/pirateplot.html)
+1. [BRRR!](https://github.com/brooke-watson/BRRR)
 
 ## References
 
