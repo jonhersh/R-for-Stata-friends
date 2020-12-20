@@ -49,7 +49,7 @@
 1. [caret](https://topepo.github.io/caret/)
 1. [xgboost with treesnip](https://curso-r.github.io/treesnip/)
 1. [tidymodels](https://www.tidymodels.org/start/)
- - [Tidy Modeling with R](https://www.tmwr.org/)
+1. [Tidy Modeling with R](https://www.tmwr.org/)
 
 ## Fun stuff
 
@@ -58,6 +58,8 @@
 1. [Analyzing spatial data with sf](https://r-spatial.github.io/sf/)
 1. [Pirate plots](https://bookdown.org/ndphillips/YaRrr/pirateplot.html)
 1. [BRRR!](https://github.com/brooke-watson/BRRR)
+1. [Tidytext for text mining](https://cran.r-project.org/web/packages/tidytext/vignettes/tidytext.html)
+1. [Functional programming with purrr](https://jennybc.github.io/purrr-tutorial/)
 
 ## References
 
