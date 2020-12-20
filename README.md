@@ -9,7 +9,13 @@
 1. [RStudio](https://rstudio.com/)
 1. [tidyverse](https://www.tidyverse.org/)
 1. [Arranging data with dplyr](https://dplyr.tidyverse.org/)
+1. [Janitor for cleaning dirty data](https://www.r-pkg.org/pkg/janitor)
+
+## Reproducible research
+1. [Rstudio Project Files](https://r4ds.had.co.nz/workflow-projects.html) [link 2](https://support.rstudio.com/hc/en-us/articles/200526207-Using-Projects)
+1. [Automating github connections with usethis](https://usethis.r-lib.org/)
 1. [RMarkdown for making dynamic documents](https://rmarkdown.rstudio.com/)
+1. [Drake package](https://github.com/ropensci/drake)
 
 ## Descriptive statistics
 
@@ -35,8 +41,8 @@
 1. [Panel Match](https://github.com/insongkim/PanelMatch)
 
 ## Experiments
-
 1. [Declare Design for experimental setup](https://declaredesign.org/) 
+1. [Power analysis](https://publicifsv.sund.ku.dk/~tag/Teaching/share/R-tutorials/Basic-statistics/Power.html)
 
 ## Machine learning
 1. [Feature Engineering](http://www.feat.engineering/)
@@ -59,3 +65,4 @@
 - [Paul GP](https://paulgp.github.io/blog.html)
 - [R for Data Science](https://r4ds.had.co.nz/)
 - [R for Everyone](https://www.jaredlander.com/r-for-everyone/)
+- [Analytics for Industry](https://garthtarr.github.io/meatR/index.html)
